@@ -3,8 +3,8 @@
     "prefix": ".",
     "permissions_link": "37080128;",
     
-    
-    "id_bot": "", \\ you can let this ligne empty
+   
+    "id_bot": "", //you can let this lign empty//
     "avatar": "Your BOT avatar",
     "name": "Welcoming Message BOT", 
     "banner": "Your Banner"
