@@ -1,0 +1,14 @@
+{
+  "name": "welcoming-message",
+  "version": "1.0.0",
+  "description": "This bot have a tool for a welcoming message example : \"https://gyazo.com/8d3cde554d6f392e78803ecd0cedb90e\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name | Original files by JUG & xb",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
