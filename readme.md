@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=If+you+need+assistance)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=Feel+free+to+contact+me+through)](https://git.io/typing-svg) <br> [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=Feel+free+to+contact+me+through)](https://git.io/typing-svg) <br> [Discord](https://discord.gg/xjJpmHr6Sz) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
 
 <img class="welcomeexample"
      src="https://cdn.discordapp.com/attachments/890583358751531039/898923166032867328/unknown.png"
