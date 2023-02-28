@@ -17,5 +17,5 @@ fs.readdir('./commands', (err, files) => {
 })
 
 client.on("guildMemberAdd", async member => {
-    client.channels.cache.get('Your Channel ID ( I recomend general chat').send(`1st emote • 2nd emote \`Welcome\` ${member}\n**Thanks for joining the discord, have a good time.** **We are now \`${member.guild.memberCount}\` In the server.**\ `)
+    client.channels.cache.get('Your Channel ID').send(`1st emote • 2nd emote \`Welcome\` ${member}\n**Thanks for joining the discord server, have a good time.** **We are now \`${member.guild.memberCount}\` In the server.**\ `)
 })
