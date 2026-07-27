@@ -1,19 +1,77 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=This+is+a+code+who+welcome+members)](https://git.io/typing-svg)
+<div align="center">
+  <h1>👋 Discord Welcoming Bot</h1>
+  <p>A simple and elegant Discord.js bot that automatically sends a welcoming message with an image banner to new server members.</p>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=If+you+need+assistance)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/TheoPerson/Welcoming-Message?style=flat-square&color=36BCF7" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/TheoPerson/Welcoming-Message?style=flat-square&color=36BCF7" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Discord.js-Ready-blue?style=flat-square&logo=discord" alt="Discord.js" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=Feel+free+to+contact+me+through)](https://git.io/typing-svg) <br> [Discord](https://discord.gg/xjJpmHr6Sz) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
+<br />
 
-<img class="welcomeexample"
-     src="https://cdn.discordapp.com/attachments/890583358751531039/898923166032867328/unknown.png"
-     alt="welcomeexample">     
-     
-<hr>
+## 📖 Overview
 
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Whenever a new user joins your Discord server, this bot instantly welcomes them with a beautifully formatted message and a custom banner image. It helps create a warm, professional first impression for your community.
 
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JUG__UK
-[instagram]: https://www.instagram.com/theo.person
-[linkedin]: https://www.linkedin.com/in/theoperson/  
+<img src="https://cdn.discordapp.com/attachments/890583358751531039/898923166032867328/unknown.png" alt="Welcome Message Example" />
+
+## ✨ Features
+
+- **Automatic Welcome:** Listens for the `guildMemberAdd` event to trigger instantly.
+- **Image Embeds:** Supports attaching a welcome banner/image to the message.
+- **Customizable Text:** Easily edit the welcome message text and formatting.
+- **Channel Specific:** Sends the message to your designated welcome channel.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed
+- `discord.js` package installed
+- A Discord Bot Token
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/TheoPerson/Welcoming-Message.git
+   cd Welcoming-Message
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Configure your bot:**
+   Open `config.json` and add your bot token and the ID of your welcome channel:
+   ```json
+   {
+       "token": "YOUR_BOT_TOKEN_HERE",
+       "welcomeChannelId": "YOUR_CHANNEL_ID_HERE"
+   }
+   ```
+
+4. **Run the bot:**
+   ```bash
+   node index.js
+   ```
+
+## 🛠️ Tech Stack
+
+- **JavaScript (Node.js)**
+- **Discord.js Library**
+
+---
+
+<div align="center">
+  <h3>📬 Need Assistance?</h3>
+  <p>Feel free to reach out if you have any questions or need help setting up.</p>
+  <p>
+    <a href="mailto:theoperson333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://twitter.com/JUG_SEC"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/theoperson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
